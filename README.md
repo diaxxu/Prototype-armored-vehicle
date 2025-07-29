@@ -5,8 +5,7 @@ This is a concept design of an armored tracked vehicle, created for learning and
 ## Overview
 
 The vehicle follows the general layout of a tank destroyer with a fixed upper hull and front-mounted cannon. It features a full tracked system with detailed suspension and roller components.
-
-### Key Features
+### Key Feature
 
 - Fully modeled track and suspension system
 - Eight road wheels per side with support structure
