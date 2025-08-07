@@ -24,4 +24,4 @@ This project was created for fun and personal learning. It is not intended for r
 
 ## License
 
-This design is shared for educational and personal use only. Commercial use is not allowed without permission.
+This design is shared for educational and personal use only. recreation use for commerce or any non ethical subject is not allowed 
